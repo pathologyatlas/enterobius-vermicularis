@@ -1,58 +1,46 @@
-# template
-
-**template for pathology atlas repositories**
+# Enterobius vermicularis
 
 
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-> do not forget to activate github pages for the new repository
-
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language enterobius-vermicularis, echo=FALSE, include=TRUE}
 source("./R/language.R")
 ```
 
 
 ```{asis, echo = (language == "TR")}
-# TemplateTR
+# Enterobius vermicularis
 ```
 
 
 ```{asis, echo = (language == "EN")}
-# TemplateEN
+# Enterobius vermicularis
 ```
 
 
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Enterobius vermicularis**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/enterobius-vermicularis/HE.html](https://pathologyatlas.github.io/enterobius-vermicularis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/enterobius-vermicularis/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Enterobius vermicularis**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/enterobius-vermicularis/HE.html](https://pathologyatlas.github.io/enterobius-vermicularis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/enterobius-vermicularis/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
