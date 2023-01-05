@@ -22,11 +22,11 @@ source("./R/language.R")
 **Enterobius vermicularis**
 
 
-[https://pathologyatlas.github.io/enterobius-vermicularis/HE.html](https://pathologyatlas.github.io/enterobius-vermicularis/HE.html)
+[https://images.patolojiatlasi.com/enterobius-vermicularis/HE.html](https://images.patolojiatlasi.com/enterobius-vermicularis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/enterobius-vermicularis/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/enterobius-vermicularis/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -36,11 +36,11 @@ Mikroskopik görüntüleri inceleyin:
 **Enterobius vermicularis**
 
 
-[https://pathologyatlas.github.io/enterobius-vermicularis/HE.html](https://pathologyatlas.github.io/enterobius-vermicularis/HE.html)
+[https://images.patolojiatlasi.com/enterobius-vermicularis/HE.html](https://images.patolojiatlasi.com/enterobius-vermicularis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/enterobius-vermicularis/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/enterobius-vermicularis/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
